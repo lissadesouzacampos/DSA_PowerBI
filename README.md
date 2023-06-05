@@ -3,6 +3,6 @@ Just the dashboards I've created when taking the course "Microsoft Power BI for 
 
 Here is a video portfolio:
 
-https://github.com/lissadesouzacampos/DSA_PowerBI/blob/main/DSA_PowerBI_portfolio_byLissa.mp4
+https://github.com/lissadesouzacampos/DSA_PowerBI/assets/65967699/442f35e6-4a83-40a0-aab2-19bcf1bfc8fa
 
 
